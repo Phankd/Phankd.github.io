@@ -26,7 +26,7 @@ function projInfo(s) {
         
         document.getElementById("project-view").innerHTML="<img src = './pages-media/ml.png' width = 300px style = 'margin-top: 50px'>";
 
-        document.getElementById("project-name").innerHTML="<a href= 'https://github.com/KPhans/Capstone-Project'>An Exemplary Kickstarter</a>"; 
+        document.getElementById("project-name").innerHTML="<a href= 'https://github.com/Phankd/Final-Capstone-Project'>An Exemplary Kickstarter</a>"; 
 
         document.getElementById("project-desc").innerHTML="This project aims to explore the difficulties and hardships in the world of entrepreneurship. Our problem lies: What are the factors that favour success over failure for any Kickstarter and what are the determinants for overfunding. To solve this problem, I will be implementing a few machine techniques after appropriate data cleansing such as logistic regression and KNN regression. Afterwards, we will compare performance measures such as recall and deploy ensemble techniques in order to create one model with the strengths from both the previous models.";
     }
